@@ -1,0 +1,20 @@
+Goal: Cipher and encipher "I love cryptography"
+
+Key: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z . , ; : ? !, 1-26, Z-A: An off and on system that turns into lowercase letters after numbers go to double digits.
+     1 Z 2 Y 3 X 4 W 5 V 6 U 7 T 8 S 9 R a Q b P c O d N e M f L g K
+
+Cipher:   5 U8P3 2RdS84R1SWdK
+Encipher: I love cryptography!
+
+Cybersecurity Research Essay (Part 3):
+
+ In October of 2017, Yahoo was hacked and over 1 billion user accounts were compromised.
+Security questions and answers were the focus, and many users had their information leaked.
+The reasoning behind the breach was not specifically identified, but could be inferred that
+the hack was done in order to steal identities and personal info. Possible conspiracies point to
+the hack being done for reasons relating to the sale of yahoo to verizon. 
+    The cause of this hack can be traced to a mass spear-phishing ordeal that caused many users to reveal their own 
+information. Many security questions were too easy or too obvious, allowing many hackers to access user accounts through
+said phishing. Yahoo updated security measures by changing security questions and requiring that their members update their info.
+In addition to changing questions, Yahoo also asked users to update their info so that their new info could be encrypted again.
+Users were asked to update their info because this new form of encryption was more secure and much more efficient than the last form.
